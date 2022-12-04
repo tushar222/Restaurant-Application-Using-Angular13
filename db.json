@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 12,
+      "name": "mihir restaurant 123",
+      "email": "mihir12@gmail.com",
+      "mobile": "7869576789",
+      "address": "vashi,navi mumbai",
+      "services": "chai and poha"
+    },
+    {
+      "id": 14,
+      "name": "bahar restaurant",
+      "email": "bahar12@gmail.com",
+      "mobile": "8888273467",
+      "address": "kharghar,navi mumbai",
+      "services": "veg and non veg"
+    },
+    {
+      "id": 15,
+      "name": "gulmohar restaurant",
+      "email": "gulmohar12@gmail.com",
+      "mobile": "7868685878",
+      "address": "sanpada,navi mumbai",
+      "services": "biryani and kabab"
+    },
+    {
+      "id": 16,
+      "name": "nisarg restaurant",
+      "email": "nisarg23@gmail.com",
+      "mobile": "896756456785",
+      "address": "vashi,navi mumbai",
+      "services": "veg and non veg restaurant"
+    }
+  ],
+  "signup": [
+    {
+      "name": "tushar",
+      "email": "tushar@gmail.com",
+      "mobile": "45655645353",
+      "password": "1234567",
+      "id": 1
+    },
+    {
+      "name": "patil",
+      "email": "patilt222@gmail.com",
+      "mobile": "6868868586",
+      "password": "1234567",
+      "id": 2
+    },
+    {
+      "name": "atul patil",
+      "email": "atulpatil@gmail.com",
+      "mobile": "12345678",
+      "password": "1234567",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
